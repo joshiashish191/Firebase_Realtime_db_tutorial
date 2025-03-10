@@ -1,0 +1,1 @@
+This is dummy project about performing CRUD operations in Firebase Realtime Database from Android app. The full tutorial series can be found <a href="https://www.youtube.com/playlist?list=PLdfH9ZQ89rtpKbrS-UHiLn9M1o2ny-lu4" target="new">here</a>. In the project, please make sure to put your own google-services.json file as I have removed mine.
